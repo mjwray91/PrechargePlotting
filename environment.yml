@@ -14,5 +14,4 @@ dependencies:
   - anaconda==2020.07=py38_0
   - anaconda-navigator
   - navigator-updater
-  - voila
 prefix: C:\Users\MichaelWray\Python
